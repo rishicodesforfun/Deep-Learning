@@ -1,0 +1,31 @@
+Shape: (45312, 9)
+Unique dates: 933
+Date range: 0.0 to 1.0
+Days: ["b'2'" "b'3'" "b'4'" "b'5'" "b'6'" "b'7'" "b'1'"]
+Periods: 48
+
+Records per date:
+count    933.000000
+mean      48.565916
+std        5.183872
+min       48.000000
+25%       48.000000
+50%       48.000000
+75%       48.000000
+max       96.000000
+
+Demand statistics:
+          nswdemand     vicdemand
+count  45312.000000  45312.000000
+mean       0.425418      0.422915
+std        0.163323      0.120965
+min        0.000000      0.000000
+25%        0.309134      0.372346
+50%        0.443693      0.422915
+75%        0.536001      0.469252
+max        1.000000      1.000000
+
+Class distribution:
+class
+b'DOWN'    26075
+b'UP'      19237
